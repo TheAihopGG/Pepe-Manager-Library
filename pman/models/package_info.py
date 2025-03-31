@@ -1,12 +1,12 @@
-from typing import NamedTuple
-from time import time
+from dataclasses import dataclass
 
 
-class PackageInfo(NamedTuple):
+@dataclass
+class PackageInfo:
     id: int
     name: str
     description: str
     version: str
     author_name: str
-    created_at: int = int(time())
-    updated_at: int = int(time())
+    created_at: int
+    updated_at: int
