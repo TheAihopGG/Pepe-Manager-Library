@@ -8,8 +8,7 @@ This library will simplify interaction with [pepe-manager-api](https://github.co
 
 ## Technologies & Frameworks
 
-- [python 3.12](https://www.python.org/)- [sqlite3](https://www.sqlite.org/)
-- [fastapi](https://fastapi.tiangolo.com/)
+- [python 3.12](https://www.python.org/)
 
 ## Credits
 
