@@ -8,12 +8,11 @@ This library will simplify interaction with [pepe-manager-api](https://github.co
 
 ## Technologies & Frameworks
 
-- [python 3.12](https://www.python.org/)
-- [sqlite3](https://www.sqlite.org/)
+- [python 3.12](https://www.python.org/)- [sqlite3](https://www.sqlite.org/)
 - [fastapi](https://fastapi.tiangolo.com/)
 
 ## Credits
 
 - [@TheAihopGG](https://github.com/TheAihopGG) - the realization
 
-Also see a list of [contributors](https://github.com/TheAihopGG/pepe_manager_api/graphs/contributors)
+Also see a list of [contributors](https://github.com/TheAihopGG/Pepe-Manager-Library/graphs/contributors)
