@@ -7,3 +7,15 @@ class Errors:
 
     class UnidentifiedError(PMError):
         pass
+
+    class VersionIsRequiredError(PMError):
+        pass
+
+    class PathError(PMError):
+        pass
+
+    class IsNotDir(PathError):
+        pass
+
+    class TarError(PMError):
+        pass
